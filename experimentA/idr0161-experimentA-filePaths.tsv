@@ -6,14 +6,14 @@ Dataset:name:IBEX	/nfs/bioimage/drop/idr0000-Yayon/IBEX/IBEX_04.ome.tif
 Dataset:name:IBEX	/nfs/bioimage/drop/idr0000-Yayon/IBEX/IBEX_07.ome.tif
 Dataset:name:IBEX	/nfs/bioimage/drop/idr0000-Yayon/IBEX/IBEX_03.ome.tif
 Dataset:name:IBEX	/nfs/bioimage/drop/idr0000-Yayon/IBEX/IBEX_05.ome.tif
-Dataset:name:RNA Scope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1606_F144-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas2_A01_F1T0_none.ome.tif
-Dataset:name:RNA Scope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1609_F156-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
-Dataset:name:RNA Scope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1610_F144-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
-Dataset:name:RNA Scope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1604_F140-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
-Dataset:name:RNA Scope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1607_F145-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
-Dataset:name:RNA Scope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1605_F156-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas1_A01_F2T0_none.ome.tif
-Dataset:name:RNA Scope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1608_F140-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
-Dataset:name:RNA Scope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1611_F145-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1606_F144-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas2_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1609_F156-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1610_F144-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1604_F140-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1607_F145-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1605_F156-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas1_A01_F2T0_none.ome.tif
+Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1608_F140-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1611_F145-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
 Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/C167_THY_0_FFPE_1_SECTION21_P61_A31_C98a_Sanger16_Orion3@20230316_121339_820527.ome.tiff
 Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/C167_THY_0_FFPE_1_SECTION_23_P61_A31_C98a_Sanger16_Orion3@20230317_102339_687918.ome.tiff
 Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/C167_THY_0_FFPE_1_RESCAN_SECTION22_P61_A31_C98a_Sanger16_Orion3@20230317_105500_381560.ome.tiff
