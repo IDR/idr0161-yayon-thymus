@@ -1,39 +1,29 @@
-Dataset:name:IBEX	/nfs/bioimage/drop/idr0000-Yayon/IBEX/IBEX_08.ome.tif
-Dataset:name:IBEX	/nfs/bioimage/drop/idr0000-Yayon/IBEX/IBEX_06.ome.tif
-Dataset:name:IBEX	/nfs/bioimage/drop/idr0000-Yayon/IBEX/IBEX_01.ome.tif
-Dataset:name:IBEX	/nfs/bioimage/drop/idr0000-Yayon/IBEX/IBEX_02.ome.tif
-Dataset:name:IBEX	/nfs/bioimage/drop/idr0000-Yayon/IBEX/IBEX_04.ome.tif
-Dataset:name:IBEX	/nfs/bioimage/drop/idr0000-Yayon/IBEX/IBEX_07.ome.tif
-Dataset:name:IBEX	/nfs/bioimage/drop/idr0000-Yayon/IBEX/IBEX_03.ome.tif
-Dataset:name:IBEX	/nfs/bioimage/drop/idr0000-Yayon/IBEX/IBEX_05.ome.tif
-Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1606_F144-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas2_A01_F1T0_none.ome.tif
-Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1609_F156-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
-Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1610_F144-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
-Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1604_F140-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
-Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1607_F145-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
-Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1605_F156-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas1_A01_F2T0_none.ome.tif
-Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1608_F140-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
-Dataset:name:RNAscope	/nfs/bioimage/drop/idr0000-Yayon/RNA Scope/VK_THY_1611_F145-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/C167_THY_0_FFPE_1_SECTION21_P61_A31_C98a_Sanger16_Orion3@20230316_121339_820527.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/C167_THY_0_FFPE_1_SECTION_23_P61_A31_C98a_Sanger16_Orion3@20230317_102339_687918.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/C167_THY_0_FFPE_1_RESCAN_SECTION22_P61_A31_C98a_Sanger16_Orion3@20230317_105500_381560.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/F76_thy_ffpe_1_s15_764focus_P61_A31_C98a_Sanger16_Orion3@20230123_163951_495638.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/C167_THY_0_FFPE_1_SECTION_20_P61_A31_C98a_Sanger16_Orion3@20230316_102659_206461.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/U39_THY_FFPE_3_SP_P61_A31_C98a_Sanger16_Orion3@20230124_172215_371459.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/F76_THY_FFPE_1_S15_NJ_P61_A31_C98a_Sanger16_Orion3@20230123_120608_859308.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/U37_THY_0_FFPE_1_SP_P61_A31_C98a_Sanger16_Orion3@20230124_095306_110599.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/Nadav_thymus_1hrfix_F140_THY_0_FO_1_Slide2_P61_A31_C98a_Sanger16_Orion3_20230403_092656_860936.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/U39_THY_FFPE_3_SP_P61_A31_C98a_Sanger16_Orion3_20230124_172215_371459.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/Nadav_thymus_1hrfix_F145_THY_0_FO_1_P61_A31_C98a_Sanger16_Orion3_20230509_144846_043202.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/U47_old_V42_THY_FFPE_3_Thymus_16plex_020822_P61_A31_C98a_Sanger16_Orion3_20220822_230807_656562.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/Z_remove_C167_THY_0_FFPE_1_rescan_s21_P61_A31_C98a_Orion.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/F76_THY_FFPE_1_S15_NJ_P61_A31_C98a_Sanger16_Orion3_20230123_120608_859308.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/Z_remove_C167_THY_0_FFPE_1_SECTION21_P61_A31_C98a_Sanger16_Orion3@20230316_121339_820527.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/C167_THY_0_FFPE_1_S3_RESCAN_SECTION22_P61_A31_C98a_Sanger16_Orion3_20230317_105500_381560.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/C167_THY_0_FFPE_1_S4_SECTION_23_P61_A31_C98a_Sanger16_Orion3_20230317_102339_687918.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/F76_thy_ffpe_1_s15_764focus_P61_A31_C98a_Sanger16_Orion3_20230123_163951_495638.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/C167_THY_0_FFPE_1_S1_Section_20_first_001_P61_A31_C98a3_Full_000315.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/Nadav_thymus_1hrfix_F144_THY_0_FO_1_P61_A31_C98a_Sanger16_Orion3_20230509_141102_474962.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/Nadav_thymus_1hrfix_F156_THY_0_FO_1_P61_A31_C98a_Sanger16_Orion3_20230509_155540_831454.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/C167_THY_0_FFPE_1_S2_SECTION_21_P61_A31_C98a_Sanger16_Orion3_20230316_102659_206461.ome.tiff
-Dataset:name:RareCyte	/nfs/bioimage/drop/idr0000-Yayon/RareCyte/U37_THY_0_FFPE_1_SP_P61_A31_C98a_Sanger16_Orion3_20230124_095306_110599.ome.tiff
+Dataset:name:IBEX	/uod/idr/filesets/idr0161-yayon-thymus/IBEX/IBEX_08.ome.tif
+Dataset:name:IBEX	/uod/idr/filesets/idr0161-yayon-thymus/IBEX/IBEX_06.ome.tif
+Dataset:name:IBEX	/uod/idr/filesets/idr0161-yayon-thymus/IBEX/IBEX_01.ome.tif
+Dataset:name:IBEX	/uod/idr/filesets/idr0161-yayon-thymus/IBEX/IBEX_02.ome.tif
+Dataset:name:IBEX	/uod/idr/filesets/idr0161-yayon-thymus/IBEX/IBEX_04.ome.tif
+Dataset:name:IBEX	/uod/idr/filesets/idr0161-yayon-thymus/IBEX/IBEX_07.ome.tif
+Dataset:name:IBEX	/uod/idr/filesets/idr0161-yayon-thymus/IBEX/IBEX_03.ome.tif
+Dataset:name:IBEX	/uod/idr/filesets/idr0161-yayon-thymus/IBEX/IBEX_05.ome.tif
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/Nadav_thymus_1hrfix_F140_THY_0_FO_1_Slide2_P61_A31_C98a_Sanger16_Orion3_20230403_092656_860936.ome.tiff
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/U39_THY_FFPE_3_SP_P61_A31_C98a_Sanger16_Orion3_20230124_172215_371459.ome.tiff
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/Nadav_thymus_1hrfix_F145_THY_0_FO_1_P61_A31_C98a_Sanger16_Orion3_20230509_144846_043202.ome.tiff
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/U47_old_V42_THY_FFPE_3_Thymus_16plex_020822_P61_A31_C98a_Sanger16_Orion3_20220822_230807_656562.ome.tiff
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/F76_THY_FFPE_1_S15_NJ_P61_A31_C98a_Sanger16_Orion3_20230123_120608_859308.ome.tiff
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/C167_THY_0_FFPE_1_S3_RESCAN_SECTION22_P61_A31_C98a_Sanger16_Orion3_20230317_105500_381560.ome.tiff
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/C167_THY_0_FFPE_1_S4_SECTION_23_P61_A31_C98a_Sanger16_Orion3_20230317_102339_687918.ome.tiff
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/F76_thy_ffpe_1_s15_764focus_P61_A31_C98a_Sanger16_Orion3_20230123_163951_495638.ome.tiff
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/C167_THY_0_FFPE_1_S1_Section_20_first_001_P61_A31_C98a3_Full_000315.ome.tiff
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/Nadav_thymus_1hrfix_F144_THY_0_FO_1_P61_A31_C98a_Sanger16_Orion3_20230509_141102_474962.ome.tiff
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/Nadav_thymus_1hrfix_F156_THY_0_FO_1_P61_A31_C98a_Sanger16_Orion3_20230509_155540_831454.ome.tiff
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/C167_THY_0_FFPE_1_S2_SECTION_21_P61_A31_C98a_Sanger16_Orion3_20230316_102659_206461.ome.tiff
+Dataset:name:RareCyte	/uod/idr/filesets/idr0161-yayon-thymus/RareCyte/U37_THY_0_FFPE_1_SP_P61_A31_C98a_Sanger16_Orion3_20230124_095306_110599.ome.tiff
+Dataset:name:RNAscope	/uod/idr/filesets/idr0161-yayon-thymus/RNA Scope/VK_THY_1606_F144-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas2_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/uod/idr/filesets/idr0161-yayon-thymus/RNA Scope/VK_THY_1609_F156-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/uod/idr/filesets/idr0161-yayon-thymus/RNA Scope/VK_THY_1610_F144-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/uod/idr/filesets/idr0161-yayon-thymus/RNA Scope/VK_THY_1604_F140-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/uod/idr/filesets/idr0161-yayon-thymus/RNA Scope/VK_THY_1607_F145-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/uod/idr/filesets/idr0161-yayon-thymus/RNA Scope/VK_THY_1605_F156-THY_CAMP_Nucleus_AIRE_LY75_EPCAM_Meas1_A01_F2T0_none.ome.tif
+Dataset:name:RNAscope	/uod/idr/filesets/idr0161-yayon-thymus/RNA Scope/VK_THY_1608_F140-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
+Dataset:name:RNAscope	/uod/idr/filesets/idr0161-yayon-thymus/RNA Scope/VK_THY_1611_F145-THY_DLK2_Nucleus_IGFBP6_LY75_EPCAM_Meas1_A01_F1T0_none.ome.tif
