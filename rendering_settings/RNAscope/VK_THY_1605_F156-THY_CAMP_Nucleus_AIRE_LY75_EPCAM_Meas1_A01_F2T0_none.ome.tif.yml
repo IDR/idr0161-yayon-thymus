@@ -1,0 +1,46 @@
+---
+channels:
+    1:
+        active: true
+        color: 0092FF
+        end: 3000.0
+        label: DAPI
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    2:
+        active: true
+        color: '004747'
+        end: 3000.0
+        label: Opal 650
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    3:
+        active: true
+        color: 00CF00
+        end: 3000.0
+        label: Opal 570
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    4:
+        active: false
+        color: 00FF00
+        end: 65535.0
+        label: Opal 520
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    5:
+        active: false
+        color: 00FFE0
+        end: 65535.0
+        label: Atto425
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+greyscale: false
+t: 1
+version: 2
+z: 6

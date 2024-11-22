@@ -1,0 +1,158 @@
+---
+channels:
+    1:
+        active: true
+        color: FF0000
+        end: 5000.0
+        label: 01_Hoechst
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    2:
+        active: true
+        color: 00FF00
+        end: 5000.0
+        label: 02_AF1
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    3:
+        active: true
+        color: 0000FF
+        end: 5000.0
+        label: 03_CD31_Argo515
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    4:
+        active: true
+        color: FF0000
+        end: 5000.0
+        label: 04_Ki-67_Argo555L
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    5:
+        active: true
+        color: 00FF00
+        end: 5000.0
+        label: 05_CD68_Argo535
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    6:
+        active: true
+        color: 0000FF
+        end: 5000.0
+        label: 06_CD163_Argo580L
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    7:
+        active: false
+        color: FF0000
+        end: 65535.0
+        label: 07_CD20_Argo660L
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    8:
+        active: false
+        color: 00FF00
+        end: 65535.0
+        label: 08_CD4_Argo572
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    9:
+        active: false
+        color: 0000FF
+        end: 65535.0
+        label: 09_CD8a_Argo602
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    10:
+        active: false
+        color: FF0000
+        end: 65535.0
+        label: 10_CD45RO_Argo624
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    11:
+        active: false
+        color: 00FF00
+        end: 65535.0
+        label: 11_FOXP3_Argo662
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    12:
+        active: false
+        color: 0000FF
+        end: 65535.0
+        label: 12_CD3e_Argo686
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    13:
+        active: false
+        color: FF0000
+        end: 65535.0
+        label: 13_E-Cadherin_Argo730
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    14:
+        active: false
+        color: 00FF00
+        end: 65535.0
+        label: 14_PCNA_Argo760
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    15:
+        active: false
+        color: 0000FF
+        end: 65535.0
+        label: 15_Blank_Argo784
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    16:
+        active: false
+        color: FF0000
+        end: 65535.0
+        label: 16_CD45_Argo810
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    17:
+        active: false
+        color: 00FF00
+        end: 65535.0
+        label: 17_Pan-CK_Argo845
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    18:
+        active: false
+        color: 0000FF
+        end: 65535.0
+        label: 18_Vimentin_Argo874
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+    19:
+        active: false
+        color: FF0000
+        end: 65535.0
+        label: 19_Blank_Argo890
+        max: 65535.0
+        min: 0.0
+        start: 0.0
+greyscale: false
+t: 1
+version: 2
+z: 1

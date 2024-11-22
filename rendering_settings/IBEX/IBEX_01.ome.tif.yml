@@ -1,0 +1,422 @@
+---
+channels:
+    1:
+        active: true
+        color: '000000'
+        end: 100.0
+        label: AF532:Cycle1_ChromograninA
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    2:
+        active: true
+        color: 0000FF
+        end: 100.0
+        label: AF647:Cycle1_CD99
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    3:
+        active: true
+        color: FFFFFF
+        end: 100.0
+        label: PE:Cycle1_CD163
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    4:
+        active: true
+        color: 00FFFF
+        end: 100.0
+        label: AF680:Cycle1_CD11c
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    5:
+        active: true
+        color: 0000FF
+        end: 100.0
+        label: Hoechst:Cycle1_Nuclei
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    6:
+        active: true
+        color: 0000FF
+        end: 100.0
+        label: AF488:Cycle1_CD8
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    7:
+        active: false
+        color: '000000'
+        end: 255.0
+        label: iF594:Cycle1_CD3
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    8:
+        active: false
+        color: 00FF00
+        end: 255.0
+        label: AF647:Cycle2_CD5
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    9:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: Hoechst:Cycle2_Nuclei
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    10:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: AF488:Cycle2_CD20
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    11:
+        active: false
+        color: '000000'
+        end: 255.0
+        label: iF594:Cycle2_CD34
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    12:
+        active: false
+        color: '000000'
+        end: 255.0
+        label: AF555:Cycle2_CD7
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    13:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: AF700:Cycle2_CD31
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    14:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: Hoechst:Cycle3_Nuclei
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    15:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: FITC:Cycle3_CD39
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    16:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: iF594:Cycle3_CD4
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    17:
+        active: false
+        color: '000000'
+        end: 255.0
+        label: PE:Cycle3_Valpha7_2
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    18:
+        active: false
+        color: '000000'
+        end: 255.0
+        label: AF532:Cycle3_BetaTub3
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    19:
+        active: false
+        color: 00FF00
+        end: 255.0
+        label: AF647:Cycle4_CD206
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    20:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: AF680:Cycle4_SPARC
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    21:
+        active: false
+        color: '000000'
+        end: 255.0
+        label: Hoechst:Cycle4_Nuclei
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    22:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: FITC:Cycle4_LaminA
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    23:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: iF594:Cycle4_HLADR
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    24:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: PE:Cycle4_CD123
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    25:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: AF532:Cycle5_DEC205
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    26:
+        active: false
+        color: 00FF00
+        end: 255.0
+        label: AF647:Cycle5_Aquaporin1
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    27:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: AF700:Cycle5_Ki67
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    28:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: Hoechst:Cycle5_Nuclei
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    29:
+        active: false
+        color: '000000'
+        end: 255.0
+        label: eF570:Cycle5_AIRE
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    30:
+        active: false
+        color: 00FF00
+        end: 255.0
+        label: AF647:Cycle6_CD49a
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    31:
+        active: false
+        color: FFFFFF
+        end: 255.0
+        label: PE:Cycle6_Keratin10
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    32:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: AF680:Cycle6_Keratin15
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    33:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: Hoechst:Cycle6_Nuclei
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    34:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: iF594:Cycle6_Lumican
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    35:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: AF532:Cycle6_LYVE1
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    36:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: AF532:Cycle7_Vimentin
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    37:
+        active: false
+        color: 00FF00
+        end: 255.0
+        label: AF647:Cycle7_Keratin14
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    38:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: Hoechst:Cycle7_Nuclei
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    39:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: FITC:Cycle7_AnnexinI
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    40:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: AF532:Cycle8_CD15
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    41:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: Hoechst:Cycle8_Nuclei
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    42:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: iF594:Cycle8_CD45
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    43:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: AF647:Cycle8_Synaptophysin
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    44:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: PE:Cycle8_TCRgammadelta
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    45:
+        active: false
+        color: 00FF00
+        end: 255.0
+        label: AF647:Cycle9_Keratin8
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    46:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: Hoechst:Cycle9_Nuclei
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    47:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: AF488:Cycle9_Pancytokeratin
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    48:
+        active: false
+        color: 00FFFF
+        end: 255.0
+        label: eF570:Cycle9_aSMA
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    49:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: AF532:Cycle9_Keratin5
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    50:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: AF647:Cycle3_FOXP3
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    51:
+        active: false
+        color: 00FF00
+        end: 255.0
+        label: AF488:Cycle5_Desmin
+        max: 255.0
+        min: 0.0
+        start: 0.0
+    52:
+        active: false
+        color: 0000FF
+        end: 255.0
+        label: AF488:Cycle6_CD49f
+        max: 255.0
+        min: 0.0
+        start: 0.0
+greyscale: false
+t: 1
+version: 2
+z: 4
