@@ -19,11 +19,11 @@ Study BioImage Archive Accession	S-BIAD1257
 Study Public Release Date	2024-12-12					
 				
 # Study Publication				
-Study PubMed ID				
+Study PubMed ID	39567784			
 Study Publication Title	A spatial human thymus cell atlas mapped to a continuous tissue axis	
 Study Author List	Yayon N, Kedlian VR, Boehme L, Suo C, Wachter B, Beuschel RT, Amsalem O, Polanski K, Koplev S, Tuck  E, Dann E, Van Hulle J, Perera S, Putteman T, Predeus AV, Dabrowska M, Richardson L, Tudor C, Kreins AY, Engelbert J, Stephenson E, Kleshchevnikov V, De Rita F, Crossland D, Bosticardo M, Pala F, Prigmore E, Chipampe N-J, Prete M, Fei L, To K, Barker RA, He X, Van Nieuwerburgh F, Bayraktar O, Patel M, Davies GE, Haniffa MA, Uhlmann V, Notarangelo LD, Germain RN, Radtke AJ, Marioni JC, Taghon T, Teichmann SA	
-Study PMC ID				
-Study DOI 				
+Study PMC ID	PMC11578893			
+Study DOI	https://doi.org/10.1038/s41586-024-07944-6		
 				
 # Study Contacts				
 Study Person Last Name	Yayon		
